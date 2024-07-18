@@ -9,9 +9,9 @@ export const Body = styled.body `
         text-align: center;
         color: #2D2424;
         h1 {
-            font-size: 0.7rem;
+            font-size: 1.2em;
             width: 50vw;
-            margin-top: 1rem;
+            margin-top: 2rem;
             /* border: solid blue; */
         }
     }
@@ -26,17 +26,17 @@ export const Main = styled.main`
     p {
         margin-left: 1rem;
         /* border: solid red; */
-        font-size: 0.6rem;
+        font-size: 1em;
         font-weight: 400;
-        margin-top: 0.5rem;
+        margin-top: 1.2rem;
     }
 `
 export const DivParagrafo = styled.div`
     /* border: solid red; */
-    margin-top: 0.9rem;
+    margin-top: 2.2rem;
     width: 65vw;
     h2 {
-        font-size: 0.6rem;
+        font-size: 1em;
         width: 60vw;
         height: 16vh;
         font-weight: 400;
@@ -49,13 +49,13 @@ export const DivParagrafo = styled.div`
 `
 
 export const P = styled.p`
-    width: 62vw;
+    width: 58vw;
 `
 export const P2 = styled.p`
-    width: 63vw;
+    width: 62vw;
 `
 export const P3 = styled.p`
-    width: 62vw;
+    width: 58vw;
 `
 
 export const DivImg = styled.div `
