@@ -59,8 +59,8 @@ export const DivParagrafo = styled.div`
         justify-content: space-between;
         button {
             border-radius: 1rem;
-            border: 2px solid #2D2424; 
-            background-color: #AF8F6F;
+            border: 2px solid #000000; 
+            background-color: #2D2424;
             cursor: pointer;
             margin-top: 0.5rem;
             &:hover {
@@ -74,7 +74,7 @@ export const DivParagrafo = styled.div`
             }
             a {
                 background-color: transparent;
-                color: #E5E5E5;
+                color: #FEFBF5;
                 text-decoration: none;
             }
         }
