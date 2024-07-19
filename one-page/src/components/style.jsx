@@ -22,7 +22,7 @@ export const Body = styled.body `
 export const Main = styled.main`
     display: flex;
     width: 100%;
-    color: #5C3D2E;
+    color: #2D2424;
     p {
         margin-left: 1rem;
         font-size: 1em;
